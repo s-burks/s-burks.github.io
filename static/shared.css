@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(19, 32, 24);
+    color: white;
+    font-family: futura;
+    margin: 10px;
+}
+
+h1, h2 {
+    color: goldenrod;
+    font-family: "Spot Mono";
+    font-weight: normal;
+}
