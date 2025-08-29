@@ -1,8 +1,8 @@
 <div class="navigation">
-    <a href="/"><h2>home</h2></a>
-    <a href="/about"><h2>about</h2></a>
-    <a href="/contact"><h2>contact</h2></a>
-    <a href="/projects"><h2>projects</h2></a>
+    <a href="/">home</a>
+    <a href="/about">about</a>
+    <a href="/contact">contact</a>
+    <a href="/projects">projects</a>
 </div>
 
 <style>
@@ -14,7 +14,8 @@
     a {
         background-color: var(--secondary);
         color: var(--text);
-        border-radius: 10px;
+        /* border-radius: 10px; */
+        padding: 10px;
         flex: 1;
         margin: 5px;
         text-align: center;
