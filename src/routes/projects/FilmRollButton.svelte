@@ -1,5 +1,5 @@
 <script>
-    let src = "$lib/assets/001095350001.jpeg"
+    import src from "$lib/assets/001095350001.jpeg"
 </script>
 
 <a class="filmRollButton" href={"/projects/purple-film"}>
