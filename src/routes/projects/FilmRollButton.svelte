@@ -1,9 +1,9 @@
-<script lang="ts">
-    let source = "./purple-film";
+<script>
+    let src = "$lib/assets/001095350001.jpeg"
 </script>
 
-<a class="filmRollButton" href={source}>
-    <img src="src/routes/projects/purple-film/001095350001.jpeg"/>
+<a class="filmRollButton" href={"/projects/purple-film"}>
+    <img src={src}>
 </a>
 
 <style>
